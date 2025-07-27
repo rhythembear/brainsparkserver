@@ -12,7 +12,7 @@
       "name": "brainspark (Minecraft 1.21.4)",
       "description": "brainspark Running Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "brainspark.servera.cloud",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -133,6 +133,38 @@
             "size": 578790,
             "url": "https://raw.githubusercontent.com/rhythembear/brainsparkserver/main/servers/brainspark-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.4+mc1.21.3.jar",
             "MD5": "abf08320c863f6fe524453533ebc0106"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3706,
+            "url": "https://raw.githubusercontent.com/rhythembear/brainsparkserver/main/servers/brainspark-1.21.4/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 5451,
+            "url": "https://raw.githubusercontent.com/rhythembear/brainsparkserver/main/servers/brainspark-1.21.4/files/servers.dat",
+            "MD5": "e36ead59926f0e825e92e91b5f932abd",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 5389,
+            "url": "https://raw.githubusercontent.com/rhythembear/brainsparkserver/main/servers/brainspark-1.21.4/files/servers.dat_old",
+            "MD5": "d5a19aaac287026918ba38c677e08b51",
+            "path": "servers.dat_old"
           }
         }
       ]
